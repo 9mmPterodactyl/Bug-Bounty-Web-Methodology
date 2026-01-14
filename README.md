@@ -2,7 +2,7 @@
 
 **by 9mmPterodactyl**
 
-This is my approach to bug bounty hunting that I've developed over the past year. It's focused on deep recon and systematic testing. Shoutout to NahamSec, JHaddix, Professor Messer, and many others that put out so much great content for people to learn from, they are the reason I am able to write this today.  
+This is my approach to bug bounty hunting that I've developed over the past year. It's focused on deep recon and systematic testing. Shoutout to NahamSec, JHaddix, Professor Messer, the Critical Thinking podcast crew and many others that put out so much great content for people to learn from, they are the reason I am able to write this today.  
 
 ## Why This Methodology
 
