@@ -221,6 +221,14 @@ Sometimes the easiest finds:
 
 ---
 
+## Severity Assessment and Prioritization
+
+Vulnerability severity is evaluated using the CVSS v3.1 framework as a baseline, as this aligns with how most bug bounty programs and triage teams assess technical impact and exploitability.
+
+In practice, CVSS scoring is used to inform severity classification rather than dictate it rigidly. Final prioritization considers program-specific context, affected assets, exploit preconditions, and demonstrated impact.
+
+Research focus is biased toward vulnerability classes that consistently score High or Critical under CVSS v3.1, as these findings typically represent meaningful security risk and align with higher payout tiers across bug bounty platforms.
+
 ## Depth-Focused Research vs Broad Assessments
 
 Bug bounty research emphasizes deep investigation into selected attack vectors rather than comprehensive coverage of all application functionality. This approach enables the discovery of complex, 
