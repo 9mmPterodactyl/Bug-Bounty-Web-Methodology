@@ -12,7 +12,9 @@ Unlike professional penetration testing engagements, bug bounty research allows 
 
 As such, this methodology prioritizes depth over breadth, manual analysis over automated coverage, and exploitability over exhaustive security posture review.
 
-This methodology is not intended to represent how I conduct client-facing security assessments, which are documented separately. All testing described here is performed exclusively under explicit authorization provided by bug bounty program scopes and rules.
+This methodology is not intended to represent how I conduct client-facing security assessments, which are documented separately. 
+
+All testing described here is performed exclusively under explicit authorization provided by bug bounty program scopes and rules.
 
 ## Time Horizon and Optimization Strategy
 
